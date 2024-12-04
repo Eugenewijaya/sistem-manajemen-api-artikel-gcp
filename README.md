@@ -175,10 +175,6 @@ repository/
 - **Frontend (Firebase Hosting)**: [https://your-firebase-app.web.app](https://your-firebase-app.web.app)
 - **Backend (Cloud Run)**: [https://your-cloud-run-url.a.run.app](https://your-cloud-run-url.a.run.app)
 
----
-
-## Lisensi
-Proyek ini dirilis di bawah [MIT License](LICENSE).
 
 ---
 
